@@ -1,0 +1,5 @@
+{
+    "domain": "reddit.com",
+    "username_rules": "Letters, numbers, dashes, and underscores only. Username must be between 3 and 20 characters",
+    "password_rules": "Password must be at least 6 characters long"
+}
